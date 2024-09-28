@@ -2,7 +2,7 @@
 
 body{
 
-color:rgb(1, 1, 31);
+color: rgb (1, 1, 31);
  
 }
  
@@ -60,7 +60,7 @@ color:rgb(1, 1, 31);
     height: 100%;
     width: 100%;
     z-index: -1;
-    background: var(--yellow);
+    background: var(--neavy);
     clip-path: polygon(0 90%, 100% 80%, 100% 100%, 0% 100%);
  }
 
@@ -77,7 +77,7 @@ color:rgb(1, 1, 31);
  }
 
  .btn:hover{
-    background: var(--yellow);
+    background: var(--neavy);
  }
 
  .header{
@@ -110,7 +110,7 @@ color:rgb(1, 1, 31);
 }
 
 .header .navbar a:hover{
-    color:var(--yellow);
+    color:var(--neavy);
 }
 
 .header .btn{
