@@ -6,6 +6,11 @@ menu.onclick = () =>{
     navbar.classList.toggle('active');
 }
 
+
+function speak(){
+    alert('Hello there is somany Products you can also visit here this is our another branch bit it can be full fill your needs')
+}
+
 document.querySelector('#login-btn').onclick = () =>{
     document.querySelector('.login-form-container').classList.toggle('active');
 }
