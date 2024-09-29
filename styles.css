@@ -62,7 +62,7 @@
     display: inline-block;
     margin-top: 1rem;
     border-radius: .5rem;
-    background: var(--light-neavy);
+    background: var(--neavy);
     color: var(--black);
     font-weight: 500;
     font-size: 1.7rem;
@@ -112,15 +112,18 @@
 }
 
 .header #login-btn i{
+    box-shadow:var(--box-shadow)
     font-size: 2.5rem;
-    color: var(--light-neavy);
+    color: var(--light-yellow);
     cursor: pointer;
     display: none;
+
 }
 
 #menu-btn{
     font-size: 2.5rem;
-    color: var(--light-color);
+     box-shadow: var(--box-shadow)
+    color: var(--light-yellow);
     cursor: pointer;
     display: none;
 }
