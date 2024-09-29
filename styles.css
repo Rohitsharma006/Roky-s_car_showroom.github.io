@@ -3,7 +3,7 @@
 
 :root{
     --yellow: #f9d806;
-    --light-yellow:#ffee80;
+    --color: hsl(77, 100%, 87%);
     --black:#130f40;
     --light-color:#666;
     --border: .1rem solid rgba(0,0,0,.1);
@@ -62,7 +62,7 @@
     display: inline-block;
     margin-top: 1rem;
     border-radius: .5rem;
-    background: var(--neavy);
+    background: var(--#05106d);
     color: var(--black);
     font-weight: 500;
     font-size: 1.7rem;
