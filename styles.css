@@ -1,17 +1,10 @@
-/* @import url('https://fonts.google.com/knowledge/choosing_type/pairing_typefaces_within_a_family_superfamily#nunito-nunito-sans');
- */
- 
-.roboto-slab-<uniquifier> {
-  font-family: "Roboto Slab", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
+@import url('https://fonts.google.com/knowledge/choosing_type/pairing_typefaces_within_a_family_superfamily#nunito-nunito-sans');
 
+ 
 
 :root{
     --yellow: #f9d806;
-    --light-yellow:#edebdf;
+    --light-yellow:#edebdf;  
     --black:#130f40;
     --light-color:#666;
     --border: .1rem solid rgba(0, 0, 0, 0.96);
